@@ -1,7 +1,8 @@
 
 # Structured Data Extractor — Nestack Assessment
 
-**Deployment URL:** https://dashboard.render.com/web/srv-dbd30u8n74is738167fg/deploys/dep-dbd30ugn74is738168mg
+**Deployment URL:** https://renuka-nestack-submission.onrender.com
+**Interactive API Docs:** https://renuka-nestack-submission.onrender.com/docs
 
 A Python/FastAPI backend that accepts unstructured transaction text and uses Gemini to return structured fields with per-field confidence scores and review flags.
 
