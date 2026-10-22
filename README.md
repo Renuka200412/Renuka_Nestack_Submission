@@ -8,7 +8,7 @@ A Python/FastAPI backend that accepts unstructured transaction text and uses Gem
 ## Stack and model choice
 
 - **Python + FastAPI:** concise API implementation, request validation, and automatic OpenAPI docs.
-- **Gemini `gemini-2.5-flash-lite`:** the assessment recommends this model; it is a lightweight choice for structured extraction.
+- **Gemini `gemini-3.5-flash-lite`:** lightweight, modern choice for structured extraction using Google's latest Gemini API.
 - **Google Gen AI SDK:** calls the model with JSON response mode.
 - **Post-processing:** normalizes amounts and common date formats, clamps confidence to 0–1, and applies the required review threshold.
 
