@@ -1,7 +1,7 @@
 
 # Structured Data Extractor — Nestack Assessment
 
-**Deployment URL:** Not deployed yet. Deploy the private repository using the steps below and replace this line with the live service URL before submission.
+**Deployment URL:** https://dashboard.render.com/web/srv-dbd30u8n74is738167fg/deploys/dep-dbd30ugn74is738168mg
 
 A Python/FastAPI backend that accepts unstructured transaction text and uses Gemini to return structured fields with per-field confidence scores and review flags.
 
